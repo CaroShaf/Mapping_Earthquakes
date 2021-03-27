@@ -17,7 +17,19 @@ let airportData = "https://raw.githubusercontent.com/CaroShaf/Mapping_Earthquake
 
 // Grabbing our GeoJSON data.
 d3.json(airportData).then(function(data) {
+
     console.log(data);
+
   // Creating a GeoJSON layer with the retrieved data.
-  L.geoJson(data).addTo(map);
+  L.geoJson(data, {
+
+    onEachFeature: function(feature, layer) {
+
+      console.log(layer);
+      layer.bindPopup("Airport code:" + feature.properties.faa + "<hr>" + "Airport name:" + feature.properties.name);
+
+    }
+
+  }).addTo(map);
+
 });
