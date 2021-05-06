@@ -26,7 +26,8 @@ Three pngs are provided as an example of the different views and what can be con
 2.  Street View / All Data  
 
   Again orange lines indicate a tectonic plate, and as above, it is true that earthquakes are most common along tectonic plates.  In this view, we can see the nearest cities of
-  Salinas, Gonzales and Soledad in California.  We can also see some major national highways along the tectonic plate and where some major earthquakes occur.
+  Salinas, Gonzales and Soledad in California.  We can also see some major national highways along the tectonic plate and where some major earthquakes occur.  Any area of the
+  map can be zoomed in on to see streets relative to earthquake occurences.
   
   <p align="center">
   <a href="https://github.com/CaroShaf/Mapping_Earthquakes">
