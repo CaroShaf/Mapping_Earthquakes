@@ -15,11 +15,12 @@ Three pngs are provided as an example of the different views and what can be con
 1. Night View / All Data
 
   Orange lines indicate the tectonic plates.  The dots representing earthquakes are scaled to indicate the severity of the earthquake with the larger orange and red dots
-  representing the earthquakes equal to or larger than 4.5 ML (or more commonly, Richter scale).
+  representing the earthquakes equal to or larger than 4.5 ML (or more commonly, Richter scale).  It is clear here in this view (because it is global) the occurences
+  of earthquakes on tectonic plate boundaries in the oceans are fewer than on land masses.
   
   <p align="center">
   <a href="https://github.com/CaroShaf/Mapping_Earthquakes">
-    <img src="images/night_all_layers.png" alt="EQ night map" width="600" height="350">
+    <img src="images/night_all_layers.png" alt="EQ night map" width="700" height="400">
   </a>
   
 2.  Street View / All Data  
@@ -29,12 +30,17 @@ Three pngs are provided as an example of the different views and what can be con
   
   <p align="center">
   <a href="https://github.com/CaroShaf/Mapping_Earthquakes">
-    <img src="images/streets_all_layers.png" alt="EQ street map Salinas" width="600" height="300">
+    <img src="images/streets_all_layers.png" alt="EQ street map Salinas" width="700" height="400">
   </a>
   
 3. Satellite View / All Data
 
+  Perhaps the most visually appealing and easiest to interpret if used in a global view, is the satellite map, although this one is more focused on the United States than the
+  night view example above.
+  
      <p align="center">
   <a href="https://github.com/CaroShaf/Mapping_Earthquakes">
-    <img src="images/satellite_all_layers.png" alt="EQ satellite" width="700" height="300">
+    <img src="images/satellite_all_layers.png" alt="EQ satellite" width="700" height="400">
   </a>
+  
+In all three of these views, any of the three layers of information could be turned off in order to view the data independently.
