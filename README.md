@@ -39,7 +39,7 @@ Three pngs are provided as an example of the different views and what can be con
   Perhaps the most visually appealing and easiest to interpret if used in a global view, is the satellite map, although this one is more focused on the United States than the
   night view example above.
   
-     <p align="center">
+  <p align="center">
   <a href="https://github.com/CaroShaf/Mapping_Earthquakes">
     <img src="images/satellite_all_layers.png" alt="EQ satellite" width="700" height="400">
   </a>
