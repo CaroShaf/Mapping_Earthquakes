@@ -19,7 +19,7 @@ Three pngs are provided as an example of the different views and what can be con
   
   <p align="center">
   <a href="https://github.com/CaroShaf/Mapping_Earthquakes">
-    <img src="images/night_all_layers.png" alt="EQ night map" width="600" height="400">
+    <img src="images/night_all_layers.png" alt="EQ night map" width="600" height="350">
   </a>
   
 2.  Street View / All Data  
@@ -29,5 +29,12 @@ Three pngs are provided as an example of the different views and what can be con
   
   <p align="center">
   <a href="https://github.com/CaroShaf/Mapping_Earthquakes">
-    <img src="images/streets_all_layers.png" alt="EQ street map Salinas" width="600" height="400">
+    <img src="images/streets_all_layers.png" alt="EQ street map Salinas" width="600" height="300">
+  </a>
+  
+3. Satellite View / All Data
+
+     <p align="center">
+  <a href="https://github.com/CaroShaf/Mapping_Earthquakes">
+    <img src="images/satellites_all_layers.png" alt="EQ satellite" width="700" height="300">
   </a>
