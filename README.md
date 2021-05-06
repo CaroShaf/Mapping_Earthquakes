@@ -12,11 +12,22 @@ JavaScript (D3, Leaflet and MapBox libraries), GeoJSON from USGS API, MapBox API
 
 Three pngs are provided as an example of the different views and what can be concluded by mapping out the data.
 
-1. Night view / All data
+1. Night View / All Data
+
   Orange lines indicate the tectonic plates.  The dots representing earthquakes are scaled to indicate the severity of the earthquake with the larger orange and red dots
   representing the earthquakes equal to or larger than 4.5 ML (or more commonly, Richter scale).
   
   <p align="center">
   <a href="https://github.com/CaroShaf/Mapping_Earthquakes">
     <img src="images/night_all_layers.png" alt="EQ night map" width="600" height="400">
+  </a>
+  
+2.  Street View / All Data  
+
+  Again orange lines indicate a tectonic plate, and as above, it is true that earthquakes are most common along tectonic plates.  In this view, we can see the nearest cities of
+  Salinas, Gonzales and Soledad in California.  We can also see some major national highways along the tectonic plate and where some major earthquakes occur.
+  
+  <p align="center">
+  <a href="https://github.com/CaroShaf/Mapping_Earthquakes">
+    <img src="images/streets_all_layers.png" alt="EQ street map Salinas" width="600" height="400">
   </a>
