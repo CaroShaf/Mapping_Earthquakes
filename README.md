@@ -18,5 +18,5 @@ Three pngs are provided as an example of the different views and what can be con
   
   <p align="center">
   <a href="https://github.com/CaroShaf/Mapping_Earthquakes">
-    <img src="images/night_all_layers.png" alt="EQ night map" width="400" height="400">
+    <img src="images/night_all_layers.png" alt="EQ night map" width="600" height="400">
   </a>
