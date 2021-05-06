@@ -36,5 +36,5 @@ Three pngs are provided as an example of the different views and what can be con
 
      <p align="center">
   <a href="https://github.com/CaroShaf/Mapping_Earthquakes">
-    <img src="images/satellites_all_layers.png" alt="EQ satellite" width="700" height="300">
+    <img src="images/satellite_all_layers.png" alt="EQ satellite" width="700" height="300">
   </a>
