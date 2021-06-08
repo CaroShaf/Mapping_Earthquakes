@@ -1,9 +1,9 @@
 # Mapping Weekly Earthquakes
 
-The purpose of this project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days.  Using Javascript libraries, D3,
-Leaflet and MapBox, and an API call to USGS for up-to-date data, a tiled map can be viewed toggling layers on and off that display major magnitude earthquakes, tectonic plates and
-all earthquakes of any magnitude.  Furthermore, each layer or combination of layers can be viewed on 3 different maps; street view, satellite view and night view.  Using different
-views while looking at specific data can give a big picture view or a closer look at populated areas at the street level.
+The purpose of this project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days.  Using Javascript libraries,D3,
+Leaflet and MapBox, and an API call to USGS for up-to-date data, a tiled map can be viewed toggling layers on and off that display major magnitude earthquakes, tectonic plates
+and all earthquakes of any magnitude.  Furthermore, each layer or combination of layers can be viewed on 3 different maps; street view, satellite view and night view.  Using
+different views while looking at specific data can give a big picture view or a closer look at populated areas at the street level.
 
 ## Resources
 JavaScript (D3, Leaflet and MapBox libraries), GeoJSON from USGS API, MapBox API, HTML, CSS, VS Code
